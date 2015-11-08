@@ -1,0 +1,162 @@
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\Breakout.exe
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\Breakout.pdb
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+c:\users\marijn\documents\visual studio 2015\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\Breakout.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.2\Breakout\obj\x86\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\Breakout.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v0.3\Breakout\obj\x86\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\Breakout.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\Breakout.application
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\Breakout.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\obj\x86\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\obj\x86\Debug\Breakout.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.0\Breakout\obj\x86\Debug\Breakout.application
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\Breakout.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\Breakout.application
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\Breakout.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\obj\x86\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\obj\x86\Debug\Breakout.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.1\Breakout\obj\x86\Debug\Breakout.application
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\Breakout.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\Breakout.application
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\Breakout.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\Breakout.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\obj\x86\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\obj\x86\Debug\Breakout.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Breakout v1.2\Breakout\obj\x86\Debug\Breakout.application
